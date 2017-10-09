@@ -1,9 +1,9 @@
 # Google search translate button
-Add a translate button to Google search
+Add a translate button to the Google search page.
 
 ## Installation
 
-First, install one of the following addons:
+First, install one of the following addons for your browser:
 
 | Browser                   | Installation                                                                                                                       |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------|
