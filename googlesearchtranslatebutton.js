@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Adds a Translate button to the Google Search page
 // @author       Gllms
-// @match        *www.google.nl/search*
+// @match        *www.google.com/search*
 // @grant        none
 // ==/UserScript==
 
