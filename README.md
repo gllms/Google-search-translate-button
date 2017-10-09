@@ -3,7 +3,7 @@ Add a translate button to the Google search page.
 
 ## Installation
 
-First, install one of the following addons for your browser:
+1. First, install one of the following addons for your browser:
 
 | Browser                   | Installation                                                                                                                       |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------|
@@ -12,4 +12,6 @@ First, install one of the following addons for your browser:
 | Opera                     | [Tampermonkey for Opera](https://addons.opera.com/en/extensions/details/tampermonkey-beta)                                                   |
 | Dolphin Browser (Android) | [Tampermonkey for Dolphin](https://play.google.com/store/apps/details?id=net.tampermonkey.dolphin)    
 
-Then press the green install button on [this site](https://greasyfork.org/en/scripts/32149-google-search-translate-button)
+2. Then press the green install button on [this site](https://greasyfork.org/en/scripts/32149-google-search-translate-button)
+
+3. Search something on Google and click the "Translate" button to translate the text.
